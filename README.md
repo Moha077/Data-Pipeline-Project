@@ -84,13 +84,15 @@ The complete data pipeline encompasses the subsequent stages :
   
 You can find the detailed information on the diagram below:
 
-![Architecture](https://github.com/)
+![Architecture]([https://github.com/](https://github.com/Moha077/Data-Pipeline-Project/assets/57560715/d2e81fed-e8fe-4c95-a9f2-8ae7a19d8715))
+
 
 ### 🌪️ Pipeline on Airflow
-![airflowretail](https://github.com/)
+![airflowretail]([https://github.com/](https://github.com/Moha077/Data-Pipeline-Project/assets/57560715/95fd4df7-cf44-4c22-8499-1d15035e26fe))
 
 ### ⚙️ Data Modeling
-![image](https://github.com/Hamagistral/OnlineRetail-DataEng/assets/66017329/8e901a41-b830-4266-81b6-22f448d7f950)
+
+![image](https://github.com/Moha077/Data-Pipeline-Project/assets/57560715/001e0e4f-d7c0-4849-bfae-2cea8320b439)
 
 ### 🛠️ Technologies Used
 
