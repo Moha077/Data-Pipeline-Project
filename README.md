@@ -83,16 +83,13 @@ The complete data pipeline encompasses the subsequent stages :
 - Creating the dashboard *(Looker Studio)*
   
 You can find the detailed information on the diagram below:
-
-![Architecture]([https://github.com/](https://github.com/Moha077/Data-Pipeline-Project/assets/57560715/d2e81fed-e8fe-4c95-a9f2-8ae7a19d8715))
-
+![Architecture](https://github.com/Moha077/Data-Pipeline-Project/assets/57560715/a0327c07-c517-4dcc-b903-ff1c2ae30302)
 
 ### 🌪️ Pipeline on Airflow
-![airflowretail]([https://github.com/](https://github.com/Moha077/Data-Pipeline-Project/assets/57560715/95fd4df7-cf44-4c22-8499-1d15035e26fe))
+![pipline air](https://github.com/Moha077/Data-Pipeline-Project/assets/57560715/fddf6794-fa4e-413f-b623-5b71c0e4407d)
 
 ### ⚙️ Data Modeling
-
-![image](https://github.com/Moha077/Data-Pipeline-Project/assets/57560715/001e0e4f-d7c0-4849-bfae-2cea8320b439)
+![model](https://github.com/Moha077/Data-Pipeline-Project/assets/57560715/20827783-4041-4d48-91c3-776ad9baf24e)
 
 ### 🛠️ Technologies Used
 
