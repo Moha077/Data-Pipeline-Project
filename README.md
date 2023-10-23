@@ -86,10 +86,10 @@ You can find the detailed information on the diagram below:
 ![Architecture](https://github.com/Moha077/Data-Pipeline-Project/assets/57560715/b75ff7c8-aa6d-4397-b860-a89d4b9b7592)
 
 ### 🌪️ Pipeline on Airflow
-![pipline air](https://github.com/Moha077/Data-Pipeline-Project/assets/57560715/fddf6794-fa4e-413f-b623-5b71c0e4407d)
+![pipline air](https://github.com/Moha077/Data-Pipeline-Project/assets/57560715/ae7af3ff-5525-451d-bac0-30b63f886291)
 
 ### ⚙️ Data Modeling
-![model](https://github.com/Moha077/Data-Pipeline-Project/assets/57560715/20827783-4041-4d48-91c3-776ad9baf24e)
+![model](https://github.com/Moha077/Data-Pipeline-Project/assets/57560715/2fceb8e6-52d4-4f4e-bae4-0680700e745d)
 
 ### 🛠️ Technologies Used
 
