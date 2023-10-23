@@ -133,7 +133,7 @@ Run the pipeline and monitor its execution.
 <a name="contact"></a>
 ## 📨 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/hamza-elbelghiti/) •
+[LinkedIn](https://www.linkedin.com/in/mohamed-hamzaoui-462386149/) •
 [Gmail](hamzaouimohamed8@gmail.com)
 
 
